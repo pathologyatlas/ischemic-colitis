@@ -28,11 +28,11 @@ source("./R/language.R")
 **İskemik Kolit**
 
 
-[https://pathologyatlas.github.io/ischemic-colitis/HE.html](https://pathologyatlas.github.io/ischemic-colitis/HE.html)
+[https://images.patolojiatlasi.com/ischemic-colitis/HE.html](https://images.patolojiatlasi.com/ischemic-colitis/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/ischemic-colitis/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/ischemic-colitis/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -44,11 +44,11 @@ Mikroskopik görüntüleri inceleyin:
 **Ischemic Colitis**
 
 
-[https://pathologyatlas.github.io/ischemic-colitis/HE.html](https://pathologyatlas.github.io/ischemic-colitis/HE.html)
+[https://images.patolojiatlasi.com/ischemic-colitis/HE.html](https://images.patolojiatlasi.com/ischemic-colitis/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/ischemic-colitis/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/ischemic-colitis/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
